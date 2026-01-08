@@ -1,0 +1,7 @@
+__pycache__/
+models/
+*.zip
+*.pb
+*.h5
+*.pyc
+.venv/
